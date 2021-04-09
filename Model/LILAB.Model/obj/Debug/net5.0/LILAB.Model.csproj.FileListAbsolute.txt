@@ -1,0 +1,12 @@
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\bin\Debug\net5.0\LILAB.Model.deps.json
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\bin\Debug\net5.0\LILAB.Model.dll
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\bin\Debug\net5.0\ref\LILAB.Model.dll
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\bin\Debug\net5.0\LILAB.Model.pdb
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\LILAB.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\LILAB.Model.AssemblyInfoInputs.cache
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\LILAB.Model.AssemblyInfo.cs
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\LILAB.Model.csproj.CoreCompileInputs.cache
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\LILAB.Model.dll
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\ref\LILAB.Model.dll
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\LILAB.Model.pdb
+D:\LILAB PROYECTO\LILAB\Model\LILAB.Model\obj\Debug\net5.0\LILAB.Model.csprojAssemblyReference.cache

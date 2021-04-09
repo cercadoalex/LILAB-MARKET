@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "LILAB.Infraestructura.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "LILAB.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LILAB.Infraestructura.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LILAB.Infraestructura.Interface.dll": {}
+        }
+      },
+      "LILAB.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LILAB.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LILAB.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LILAB.Infraestructura.Interface/1.0.0": {
+      "type": "project",
+      "path": "../../UnitOfWork/LILAB.Infraestructura.Interface/LILAB.Infraestructura.Interface.csproj",
+      "msbuildProject": "../../UnitOfWork/LILAB.Infraestructura.Interface/LILAB.Infraestructura.Interface.csproj"
+    },
+    "LILAB.Model/1.0.0": {
+      "type": "project",
+      "path": "../../Model/LILAB.Model/LILAB.Model.csproj",
+      "msbuildProject": "../../Model/LILAB.Model/LILAB.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "LILAB.Infraestructura.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alex\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\LILAB PROYECTO\\LILAB\\Service\\LILAB.Service\\LILAB.Service.csproj",
+      "projectName": "LILAB.Service",
+      "projectPath": "D:\\LILAB PROYECTO\\LILAB\\Service\\LILAB.Service\\LILAB.Service.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "D:\\LILAB PROYECTO\\LILAB\\Service\\LILAB.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\LILAB PROYECTO\\LILAB\\UnitOfWork\\LILAB.Infraestructura.Interface\\LILAB.Infraestructura.Interface.csproj": {
+              "projectPath": "D:\\LILAB PROYECTO\\LILAB\\UnitOfWork\\LILAB.Infraestructura.Interface\\LILAB.Infraestructura.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

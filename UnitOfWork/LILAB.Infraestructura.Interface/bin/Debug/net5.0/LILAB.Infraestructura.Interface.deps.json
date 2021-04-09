@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LILAB.Infraestructura.Interface/1.0.0": {
+        "dependencies": {
+          "LILAB.Model": "1.0.0"
+        },
+        "runtime": {
+          "LILAB.Infraestructura.Interface.dll": {}
+        }
+      },
+      "LILAB.Model/1.0.0": {
+        "runtime": {
+          "LILAB.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LILAB.Infraestructura.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LILAB.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.deps.json
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\ref\LILAB.Infrastructure.PostgreSQL.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.pdb
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\LILAB.Infraestructura.Interface.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\LILAB.Model.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\LILAB.Model.pdb
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\bin\Debug\net5.0\LILAB.Infraestructura.Interface.pdb
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.csprojAssemblyReference.cache
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.AssemblyInfoInputs.cache
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.AssemblyInfo.cs
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.csproj.CoreCompileInputs.cache
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.csproj.CopyComplete
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\ref\LILAB.Infrastructure.PostgreSQL.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infrastructure.PostgreSQL\obj\Debug\net5.0\LILAB.Infrastructure.PostgreSQL.pdb

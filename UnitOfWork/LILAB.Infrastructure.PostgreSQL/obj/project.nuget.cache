@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XLcHtllkW2hmncmc6414w2RXAI/tk0ogE/sqK6Cgb9wq5GdUKnxHFogdPjYxJMtnhIUTE3TwfXNw7tqe2FoIbA==",
+  "success": true,
+  "projectFilePath": "D:\\LILAB PROYECTO\\LILAB\\UnitOfWork\\LILAB.Infrastructure.PostgreSQL\\LILAB.Infrastructure.PostgreSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

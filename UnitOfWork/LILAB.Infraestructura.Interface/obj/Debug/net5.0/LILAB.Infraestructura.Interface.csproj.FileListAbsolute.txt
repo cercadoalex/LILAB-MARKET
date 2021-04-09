@@ -1,0 +1,15 @@
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\bin\Debug\net5.0\LILAB.Infraestructura.Interface.deps.json
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\bin\Debug\net5.0\LILAB.Infraestructura.Interface.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\bin\Debug\net5.0\ref\LILAB.Infraestructura.Interface.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\bin\Debug\net5.0\LILAB.Infraestructura.Interface.pdb
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\bin\Debug\net5.0\LILAB.Model.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\bin\Debug\net5.0\LILAB.Model.pdb
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.csprojAssemblyReference.cache
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.AssemblyInfoInputs.cache
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.AssemblyInfo.cs
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.csproj.CoreCompileInputs.cache
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.csproj.CopyComplete
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\ref\LILAB.Infraestructura.Interface.dll
+D:\LILAB PROYECTO\LILAB\UnitOfWork\LILAB.Infraestructura.Interface\obj\Debug\net5.0\LILAB.Infraestructura.Interface.pdb

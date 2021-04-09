@@ -1,0 +1,59 @@
+
+Base de datos : bd_market
+
+CREATE TABLE Producto
+(
+    ProductoId SERIAL,
+    Nombre character varying(250) NOT NULL,
+    Descripcion character varying(1000),
+    Stock integer NOT NULL,
+    CategoriaId integer NOT NULL,
+    Precio numeric NOT NULL,
+    Imagen text ,
+    CONSTRAINT PK_Producto PRIMARY KEY (ProductoId),
+    CONSTRAINT FK_Producto_Categoria_CategoriaId FOREIGN KEY (CategoriaId)
+        REFERENCES Categoria (CategoriaId) 
+);
+
+CREATE TABLE Categoria
+(
+    CategoriaId serial,
+    Nombre varchar(50) ,
+    CONSTRAINT PK_Categoria PRIMARY KEY (CategoriaId)
+);
+
+CREATE TABLE CarritoItem
+(
+    CarritoItemId serial,
+	ProductoId integer NOT NULL,
+	PrecioUnitario numeric NOT NULL,
+    Cantidad varchar(50) NOT NULL,
+	PrecioTotal numeric NOT NULL,
+	Estado boolean not null,
+    CONSTRAINT PK_CarritoItem PRIMARY KEY (CarritoItemId),
+	 CONSTRAINT FK_CarritoItem_Producto_ProductoId FOREIGN KEY (ProductoId)
+        REFERENCES Producto (ProductoId) 
+);
+
+
+INSERT INTO categoria(nombre)VALUES ('Verduras');
+INSERT INTO categoria(nombre)VALUES ('Frutas');
+
+
+	INSERT INTO producto(nombre, descripcion, stock, categoriaid, precio, imagen)
+	VALUES ('Sandia', 'Sandia Sin Pepa', 50, 2, 2.0, 'http://farmaciasecadero.com/blog/wp-content/uploads/2018/05/beneficios-Sandia.jpg');
+	
+	
+	INSERT INTO producto(nombre, descripcion, stock, categoriaid, precio, imagen)
+	VALUES ('Mandarina', 'Sin Pepa', 80, 2, 3.50, 'https://cdn1.frutapasion.es/wp-content/uploads/2019/11/mandarina-0.jpg');
+	
+	
+	INSERT INTO producto(nombre, descripcion, stock, categoriaid, precio, imagen)
+	VALUES ('Lechuga', 'Lechuga Americana', 40, 1, 2.50, 'https://okdiario.com/img/recetas/2016/09/18/lechuga-boston.jpg');
+	
+	
+	INSERT INTO producto(nombre, descripcion, stock, categoriaid, precio, imagen)
+	VALUES ('Tomate', 'Tomate Verde', 100, 1, 4.0, 'https://www.recetaslamasia.es/wp-content/uploads/2014/05/comidas_4.jpg');
+	
+	
+	
